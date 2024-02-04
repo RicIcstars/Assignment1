@@ -1,0 +1,53 @@
+body {
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.image{
+
+    
+        display: flex;
+        justify-content: center;
+      
+
+}
+
+
+#container{
+
+
+
+    text-align: justify;
+    
+    max-width: 600px;
+}
+
+
+#goldBlock{
+width: 100%;
+height: 10%;
+background-color: #D4AF37;
+position: fixed;
+bottom: 0;
+left: 0;
+
+
+
+}
+
+
+#sidebar{
+
+    width: 10%;
+    height: 100%;
+    background-color: #D4AF37;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+
+
+}
